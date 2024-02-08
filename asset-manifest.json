@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kavya/static/css/main.f855e6bc.css",
+    "main.js": "/kavya/static/js/main.42606a13.js",
+    "static/js/592.54ede41b.chunk.js": "/kavya/static/js/592.54ede41b.chunk.js",
+    "static/media/logo.svg": "/kavya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kavya/index.html",
+    "main.f855e6bc.css.map": "/kavya/static/css/main.f855e6bc.css.map",
+    "main.42606a13.js.map": "/kavya/static/js/main.42606a13.js.map",
+    "592.54ede41b.chunk.js.map": "/kavya/static/js/592.54ede41b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.42606a13.js"
+  ]
+}
